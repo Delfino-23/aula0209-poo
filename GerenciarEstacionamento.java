@@ -21,7 +21,7 @@ public class GerenciarEstacionamento {
 
         // Jósep Cadura possui dois carros
         Cliente cliente1 = new Cliente();
-        cliente1.setNome("Josep Cadura");
+        cliente1.setNome("Josep");
         cliente1.setEmail("josep@gmail.com");
         cliente1.setTelefone("123-456-789");
         cliente1.adicionarCarro(carro1);
@@ -31,3 +31,4 @@ public class GerenciarEstacionamento {
     }
 
 }
+
